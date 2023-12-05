@@ -1,6 +1,6 @@
 # ZeNET
 
-A set of scripts to quickly build a Wireguard network for games Touhou Hisoutensoku.
+A set of scripts to quickly build a Wireguard network for games like Touhou Hisoutensoku.
 
 ## How to Use
 
