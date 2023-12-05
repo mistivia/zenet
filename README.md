@@ -6,7 +6,7 @@ A set of scripts to quickly build a Wireguard network for games like Touhou Hiso
 
 Clone this repo.
 
-    git clone https://github.com/arcane-lactiflora/zenet.git
+    git clone https://github.com/mistivia/zenet.git
 
 Create config file and edit it:
 
