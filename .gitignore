@@ -1,0 +1,6 @@
+serv-conf/*
+cli-confs/*
+config.ini
+profiles
+hosts
+tmp.sh
