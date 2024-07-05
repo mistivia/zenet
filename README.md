@@ -8,10 +8,18 @@ Clone this repo.
 
     git clone https://github.com/mistivia/zenet.git
 
+Generate private key:
+
+    wg genkey > ./privkey ; cat privkey
+
+Generate public key:
+
+    cat privkey | wg pubkey
+
 Create config file and edit it:
 
     cp config_example.ini config.ini
-    nano config.ini
+    vim config.ini
 
 Create some new users:
 
